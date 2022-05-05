@@ -8,10 +8,10 @@ Janji
 Pada tugas ini terdapat source code Python yang telah diperbaiki fiturnya. Berikut penjelasan mengenai apa yang telah saya kerjakan beserta dokumentasi hasilnya.
 
 1. Menambahkan field jenis kelamin pada database dengan tipe inputan radio button
-   >Jenis Kelamin pada database
+   >Jenis kelamin yang telah ditambahkan pada database
    >![](assets_readme/jk_db.png)
 
-   >Jenis kelamin pada radio button, saat akn input data
+   >Jenis kelamin pada radio button, saat akan input data
    >![](assets_readme/jk_rb.png)
 
 2. Menambahkan data hobi pada form dengan tipe inputan combo box
