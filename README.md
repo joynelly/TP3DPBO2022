@@ -15,10 +15,11 @@ Pada tugas ini terdapat source code Python yang telah diperbaiki fiturnya. Berik
    >![](assets_readme/jk_rb.png)
 
 2. Menambahkan data hobi pada form dengan tipe inputan combo box
-   - Data hobi yang telah ditambahkan pada database<br>
-     ![](assets_readme/hobi_db.png)
-   - data hobi yang inputannya bertipe combo box pada form<br>
-     ![](assets_readme/hobi_cb.png)
+   >Data hobi yang telah ditambahkan pada database
+   >![](assets_readme/hobi_db.png)
+
+   >Data hobi yang inputannya bertipe combo box pada form
+   >![](assets_readme/hobi_cb.png)
 
 3. Input data mahasiswa yang telah berjalan.
    >![](assets_readme/input.gif)
